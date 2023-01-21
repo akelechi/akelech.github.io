@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Kelechi Akwataghibe"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "applied math phd @ UTK Knox"
   links:
      - label: "email me"
       icon: "fas fa-fw fa-envelope"
