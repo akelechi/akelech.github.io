@@ -59,7 +59,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "applied math phd @ UTK Knox"
   links:
-     - label: "email me"
+    - label: "email me"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:kakwatag@vols.utk.edu"
     - label: "GitHub"
