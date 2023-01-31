@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Kelechi Akwataghibe"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_1.jpg"
   bio    : "applied math phd @ UTK Knox"
   links:
     - label: "email me"
